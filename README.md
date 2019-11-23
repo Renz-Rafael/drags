@@ -1,4 +1,4 @@
-![Python|2.7]
+![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 # drags
 # Install #
 $ pkg install git
